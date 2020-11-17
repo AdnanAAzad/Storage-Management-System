@@ -1,0 +1,9 @@
+C:\Users\Adnan\Desktop\PRG 650\_AAFinalProject_StorageMgmtSys\StorageManagementSystem\Server\bin\Debug\Server.exe.config
+C:\Users\Adnan\Desktop\PRG 650\_AAFinalProject_StorageMgmtSys\StorageManagementSystem\Server\bin\Debug\Server.exe
+C:\Users\Adnan\Desktop\PRG 650\_AAFinalProject_StorageMgmtSys\StorageManagementSystem\Server\bin\Debug\Server.pdb
+C:\Users\Adnan\Desktop\PRG 650\_AAFinalProject_StorageMgmtSys\StorageManagementSystem\Server\obj\Debug\Server.ServerStorage.resources
+C:\Users\Adnan\Desktop\PRG 650\_AAFinalProject_StorageMgmtSys\StorageManagementSystem\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Adnan\Desktop\PRG 650\_AAFinalProject_StorageMgmtSys\StorageManagementSystem\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Adnan\Desktop\PRG 650\_AAFinalProject_StorageMgmtSys\StorageManagementSystem\Server\obj\Debug\Server.exe
+C:\Users\Adnan\Desktop\PRG 650\_AAFinalProject_StorageMgmtSys\StorageManagementSystem\Server\obj\Debug\Server.pdb
+C:\Users\Adnan\Desktop\PRG 650\_AAFinalProject_StorageMgmtSys\StorageManagementSystem\Server\obj\Debug\Server.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Adnan\Desktop\PRG 650\_AAFinalProject_StorageMgmtSys\StorageManagementSystem\Attribute\bin\Debug\Attribute.exe.config
+C:\Users\Adnan\Desktop\PRG 650\_AAFinalProject_StorageMgmtSys\StorageManagementSystem\Attribute\bin\Debug\Attribute.exe
+C:\Users\Adnan\Desktop\PRG 650\_AAFinalProject_StorageMgmtSys\StorageManagementSystem\Attribute\bin\Debug\Attribute.pdb
+C:\Users\Adnan\Desktop\PRG 650\_AAFinalProject_StorageMgmtSys\StorageManagementSystem\Attribute\obj\Debug\Attribute.csprojAssemblyReference.cache
+C:\Users\Adnan\Desktop\PRG 650\_AAFinalProject_StorageMgmtSys\StorageManagementSystem\Attribute\obj\Debug\Attribute.csproj.CoreCompileInputs.cache
+C:\Users\Adnan\Desktop\PRG 650\_AAFinalProject_StorageMgmtSys\StorageManagementSystem\Attribute\obj\Debug\Attribute.exe
+C:\Users\Adnan\Desktop\PRG 650\_AAFinalProject_StorageMgmtSys\StorageManagementSystem\Attribute\obj\Debug\Attribute.pdb
